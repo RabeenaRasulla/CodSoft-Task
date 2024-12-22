@@ -2,39 +2,45 @@
 
 Objective: Predict whether a passenger survived the Titanic disaster using features such as age, gender, class, and more.
 
-Dataset:
+# Dataset:
 
 Source: Kaggle Titanic Dataset (https://www.kaggle.com/datasets/yasserh/titanic-dataset).
 
 Files used: train.csv (for training) and test.csv (for testing predictions).
 
-Approach:
+# Approach:
 
-Exploratory Data Analysis (EDA): Analyze and visualize the dataset to uncover patterns and relationships.
+- Exploratory Data Analysis (EDA): Analyze and visualize the dataset to uncover patterns and relationships.
 
-Data Preprocessing: Handle missing values, encode categorical variables, and normalize numerical data.
+- Data Preprocessing: Handle missing values, encode categorical variables, and normalize numerical data.
 
-Model Development: Train and evaluate machine learning models (Logistic Regression, Random Forest, etc.).
+- Model Development: Train and evaluate machine learning models (Logistic Regression, Random Forest, etc.).
 
-Prediction: Use the trained model to predict survival on test data.
+- Prediction: Use the trained model to predict survival on test data.
 
-Technologies Used:
+# Technologies Used:
 
-Python Libraries: "pandas, numpy, matplotlib, seaborn, scikit-learn".
+Python Libraries:
+
+  - pandas
+  - numpy
+  - matplotlib
+  - Seaborn
+  - scikit-learn
 
 Tools: "colaboratory Notebook" for development and visualization.
 
-Key Steps:
+# Key Steps:
 
-Load and clean the dataset.
+- Load and clean the dataset.
 
-Perform feature engineering and selection.
+- Perform feature engineering and selection.
 
-Train multiple models and tune hyperparameters.
+- Train multiple models and tune hyperparameters.
 
-Evaluate models and choose the best-performing one.
+- Evaluate models and choose the best-performing one.
 
-Results:
+# Results:
 
 Final model accuracy, along with precision, recall, and F1-score, is highlighted.
 
