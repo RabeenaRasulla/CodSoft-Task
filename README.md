@@ -42,6 +42,10 @@ Tools: "colaboratory Notebook" for development and visualization.
 
 # Results:
 
-Final model accuracy, along with precision, recall, and F1-score, is highlighted.
+Final model accuracy, along with precision, recall, and F1-score, is highlighted.   
+
+
+# Movie Rating Prediction with python
+
 
 
