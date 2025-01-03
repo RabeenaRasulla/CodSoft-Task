@@ -1,3 +1,11 @@
+TASKS
+
+- Titanic Survival prediction
+- Movie Rating Prediction With Python
+- Iris Flower Classifications
+- Sales Prediction Using Pthon
+- credit Card Fraud Detections
+
 # Titanic-Survival-prediction
 
 Objective: Predict whether a passenger survived the Titanic disaster using features such as age, gender, class, and more.
